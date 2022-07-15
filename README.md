@@ -8,7 +8,7 @@ Re-run this script to upgrade.
 
 # Install
 ```
-bash <(wget -qO- https://git.io/mtg.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/occ1122/MTProto/main/install.sh)
 ```
 
 ## Offline Install
