@@ -15,7 +15,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/occ1122/MTProto/main/install.
 
 For machines have difficulties visiting github, download the following files:
 
-- `mtg-dist.bin` from [release](https://github.com/cutelua/mtg-dist/releases)
+- `mtg-dist.bin` from [release](https://github.com/occ1122/MTProto/releases)
 - `mtg-2.x.x-linux-amd64.tar.gz` from [mtg/release](https://github.com/9seconds/mtg/releases)
 
 then run: 
